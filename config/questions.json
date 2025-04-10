@@ -1,0 +1,37 @@
+{
+  "easy":[
+  {"questionText":"What is the capital of France?","subject":"geography","answers":["Paris","London","Berlin","Madrid"]},
+  {"questionText":"Which planet is closest to the Sun?","subject":"physics","answers":["Mercury","Venus","Earth","Mars"]},
+  {"questionText":"What is the largest ocean on Earth?","subject":"geography","answers":["Pacific Ocean","Atlantic Ocean","Indian Ocean","Arctic Ocean"]},
+  {"questionText":"What force pulls objects toward Earth?","subject":"physics","answers":["Gravity","Magnetism","Friction","Electricity"]},
+  {"questionText":"Which country is home to the kangaroo?","subject":"geography","answers":["Australia","Brazil","Canada","South Africa"]},
+  {"questionText":"What is the unit of electric current?","subject":"physics","answers":["Ampere","Volt","Watt","Ohm"]},
+  {"questionText":"Which river is the longest in the world?","subject":"geography","answers":["Nile","Amazon","Yangtze","Mississippi"]},
+  {"questionText":"Which gas do plants absorb during photosynthesis?","subject":"physics","answers":["Carbon dioxide","Oxygen","Nitrogen","Hydrogen"]},
+  {"questionText":"What is the capital of Japan?","subject":"geography","answers":["Tokyo","Kyoto","Osaka","Seoul"]},
+  {"questionText":"What type of energy is stored in a battery?","subject":"physics","answers":["Chemical","Electrical","Thermal","Kinetic"]}
+  ],
+  "medium":[
+  {"questionText":"What is the chemical symbol for gold?","subject":"physics","answers":["Au","Ag","Fe","Pb"]},
+  {"questionText":"Which desert is the largest in the world?","subject":"geography","answers":["Sahara","Gobi","Arabian","Kalahari"]},
+  {"questionText":"What is the speed of light in a vacuum (approx.)?","subject":"physics","answers":["3 × 10⁸ m/s","3 × 10⁵ m/s","3 × 10³ m/s","3 × 10¹⁰ m/s"]},
+  {"questionText":"Which mountain is the highest in the world?","subject":"geography","answers":["Mount Everest","K2","Kangchenjunga","Lhotse"]},
+  {"questionText":"Which gas is most abundant in Earth's atmosphere?","subject":"physics","answers":["Nitrogen","Oxygen","Carbon Dioxide","Argon"]},
+  {"questionText":"Which country has the most time zones?","subject":"geography","answers":["France","Russia","USA","China"]},
+  {"questionText":"What principle explains why ships float?","subject":"physics","answers":["Archimedes' Principle","Bernoulli's Principle","Pascal's Law","Ohm's Law"]},
+  {"questionText":"Which continent contains the Amazon Rainforest?","subject":"geography","answers":["South America","Africa","Asia","Australia"]},
+  {"questionText":"What is the hardest natural substance on Earth?","subject":"physics","answers":["Diamond","Graphite","Quartz","Topaz"]},
+  {"questionText":"Which canal connects the Atlantic and Pacific Oceans?","subject":"geography","answers":["Panama Canal","Suez Canal","Kiel Canal","Grand Canal"]}
+  ],
+  "hard":[
+  {"questionText":"Which law states that the entropy of a perfect crystal at absolute zero is zero?","subject":"physics","answers":["Third Law of Thermodynamics","First Law of Thermodynamics","Second Law of Thermodynamics","Zeroth Law"]},
+  {"questionText":"Which country is the largest by land area?","subject":"geography","answers":["Russia","Canada","China","USA"]},
+  {"questionText":"What is the Heisenberg Uncertainty Principle related to?","subject":"physics","answers":["Position/momentum of particles","Energy/time","Charge/mass","Velocity/acceleration"]},
+  {"questionText":"Which strait separates Europe from Africa?","subject":"geography","answers":["Strait of Gibraltar","Bering Strait","Strait of Malacca","Dardanelles"]},
+  {"questionText":"Which particle is responsible for the strong nuclear force?","subject":"physics","answers":["Gluon","Photon","W Boson","Higgs Boson"]},
+  {"questionText":"Which river flows through Baghdad?","subject":"geography","answers":["Tigris","Euphrates","Nile","Jordan"]},
+  {"questionText":"What phenomenon causes neutron stars to emit periodic radiation?","subject":"physics","answers":["Lighthouse Effect","Hawking Radiation","Pair Production","Quantum Tunneling"]},
+  {"questionText":"Which tectonic plate contains most of Europe?","subject":"geography","answers":["Eurasian Plate","African Plate","North American Plate","Indo-Australian Plate"]},
+  {"questionText":"What is the SI unit of radioactivity?","subject":"physics","answers":["Becquerel","Sievert","Gray","Curie"]},
+  {"questionText":"Which country contains three of the world's ten tallest mountains?","subject":"geography","answers":["Nepal","China","India","Pakistan"]}
+  ]}
