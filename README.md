@@ -11,4 +11,4 @@ To run it, use:
 java -jar target/quiz-app-1.0.jar
 ```
 # Why?
-This was created as the Second task in Sumerge's training program.
+This was created as the Second task in Sumerge's Talent Program.
